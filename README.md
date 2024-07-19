@@ -12,14 +12,8 @@ HireX is a job listing mobile application built with React Native, Expo, and Typ
 - **Favorites:** Mark jobs as favorites for quick access.
 - **User Profiles:** Create and manage your user profile.
 - **Notifications:** Receive updates on new job listings and application status.
-
-## Screenshots
-
-![Home Screen](path/to/screenshot1.png)
-![Job Details](path/to/screenshot2.png)
-
-##Video 
-
+- 
+## Video 
 https://github.com/user-attachments/assets/4d769204-0054-4061-aaf9-2facfaff5c6b
 
 ## Installation
