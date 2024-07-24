@@ -16,16 +16,3 @@ HireX is a job listing mobile application built with React Native, Expo, and Typ
 ## Video 
 https://github.com/user-attachments/assets/4d769204-0054-4061-aaf9-2facfaff5c6b
 
-## Installation
-
-### Prerequisites
-
-Make sure you have the following installed:
-- [Node.js](https://nodejs.org/) (v14 or later)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) (install globally using `npm install -g expo-cli`)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/hirex.git
-cd hirex
